@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">30DaysofFitness</string>
+
+    <!-- Judul Bar -->
+    <string name="title_bar">30 Days Of Fitness</string>
+
+    <string name="day_text">Day %1$s:</string>
+
+
+    <string name="title1">Running</string>
+    <string name="desc1">Every morning, running is recommended as a simple and effective fitness activity.</string>
+
+    <string name="title2">Walking</string>
+    <string name="desc2">A light exercise that improves stamina and heart health with minimal effort.</string>
+
+    <string name="title3">Cycling</string>
+    <string name="desc3">Cycling helps strengthen leg muscles and improves overall cardiovascular endurance.</string>
+
+    <string name="title4">Swimming</string>
+    <string name="desc4">A low-impact full-body workout that is great for cardiovascular fitness.</string>
+
+    <string name="title5">Yoga</string>
+    <string name="desc5">Yoga helps improve flexibility, balance, and mental relaxation.</string>
+
+    <string name="title6">Pilates</string>
+    <string name="desc6">A core-focused workout designed to improve posture, balance, and muscle strength.</string>
+
+    <string name="title7">Jump Rope</string>
+    <string name="desc7">A high-intensity exercise that improves coordination and burns calories quickly.</string>
+
+    <string name="title8">Strength Training</string>
+    <string name="desc8">Helps build muscle, increase strength, and support long-term body health.</string>
+
+    <string name="title9">HIIT</string>
+    <string name="desc9">High-Intensity Interval Training boosts metabolism and improves heart health.</string>
+
+    <string name="title10">Stair Climbing</string>
+    <string name="desc10">Improves leg strength, balance, and cardiovascular endurance.</string>
+
+    <string name="title11">Hiking</string>
+    <string name="desc11">A refreshing outdoor workout that improves stamina and strengthens muscles.</string>
+
+    <string name="title12">Dancing</string>
+    <string name="desc12">A fun exercise that improves coordination and burns calories effectively.</string>
+
+    <string name="title13">Zumba</string>
+    <string name="desc13">A dance workout that helps improve endurance and energy levels.</string>
+
+    <string name="title14">Aerobics</string>
+    <string name="desc14">A rhythmic workout designed to enhance cardiovascular health.</string>
+
+    <string name="title15">Meditation Stretching</string>
+    <string name="desc15">A calm routine that promotes flexibility and mental relaxation.</string>
+
+    <string name="title16">Bodyweight Training</string>
+    <string name="desc16">Uses your own body weight to build strength and improve muscle stability.</string>
+
+    <string name="title17">Planking</string>
+    <string name="desc17">A core-strengthening exercise that improves posture and stability.</string>
+
+    <string name="title18">Squats</string>
+    <string name="desc18">Strengthens leg muscles and improves lower-body endurance.</string>
+
+    <string name="title19">Lunges</string>
+    <string name="desc19">Helps build balanced strength in both legs and improves stability.</string>
+
+    <string name="title20">Push Ups</string>
+    <string name="desc20">A classic upper-body workout that boosts chest, arm, and shoulder strength.</string>
+
+    <string name="title21">Sit Ups</string>
+    <string name="desc21">Strengthens abdominal muscles and improves core endurance.</string>
+
+    <string name="title22">Burpees</string>
+    <string name="desc22">A full-body movement that increases strength and cardiovascular fitness.</string>
+
+    <string name="title23">Boxing</string>
+    <string name="desc23">Improves coordination, reflexes, stamina, and overall body strength.</string>
+
+    <string name="title24">Badminton</string>
+    <string name="desc24">A fast-paced sport that enhances agility, stamina, and teamwork.</string>
+
+    <string name="title25">Basketball</string>
+    <string name="desc25">Helps improve coordination, endurance, and muscle strength.</string>
+
+    <string name="title26">Football</string>
+    <string name="desc26">A team sport that trains stamina, strength, and strategic movement.</string>
+
+    <string name="title27">Volleyball</string>
+    <string name="desc27">Improves teamwork, arm strength, and quick reflexes.</string>
+
+    <string name="title28">Table Tennis</string>
+    <string name="desc28">A fun sport that enhances coordination, speed, and mental focus.</string>
+
+    <string name="title29">Free Diving</string>
+    <string name="desc29">A breath-control water activity that builds calmness, stamina, and overall body strength.</string>
+
+    <string name="title30">Canyoning</string>
+    <string name="desc30">An outdoor adventure workout that combines climbing, jumping, and swimming to boost agility and endurance.</string>
+
+</resources>
