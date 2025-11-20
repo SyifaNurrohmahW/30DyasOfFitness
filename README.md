@@ -26,6 +26,7 @@ Aplikasi ini dibuat dengan tujuan untuk mempelajari dasar-dasar Kotlin lanjutan 
 Berikut Tampilan 30 Days Of Fitness
 
 ![Preview](image/preview.jpg)
+![Preview](image/preview1.jpg)
 
 
 ## Plugins
